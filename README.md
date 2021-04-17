@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @habtij
 - 👀 I’m interested in working in any project that involve php and other language
 - 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on websites or applications
+- 💞️ I’m looking to collaborate with any firm
 - 📫 How to reach me dial +234 90 4120 4282 or email me at tijanihabeeb12@outlook.com
 
 <!---
