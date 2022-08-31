@@ -1,6 +1,6 @@
-# I AM TIJANI HABEEB
----
+# Hi, I'M TIJANI HABEEB
 ## Welcome To My Repository
+---
 <!--
 - 👋 Hi, I’m @habtij
 - 👀 I’m interested in working in any project that involve php and other language
