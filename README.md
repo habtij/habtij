@@ -1,4 +1,4 @@
-# Hi, I'M TIJANI HABEEB
+# Hi, MY NAME IS TIJANI HABEEB
 ## Welcome To My Repository
 ---
 <!--
