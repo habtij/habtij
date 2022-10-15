@@ -1,6 +1,14 @@
-# Hi, MY NAME IS TIJANI HABEEB
+# Hi, MY NAME IS TIJANI HABEEB a.k.a *newthing*
 ## Welcome To My Repository
----
+
+# Skills Possessed
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JQuery</li>
+<li>Bootstrap</li>
+<li>PHP</li>
+</ul>
 <!--
 - 👋 Hi, I’m @habtij
 - 👀 I’m interested in working in any project that involve php and other language
